@@ -1,8 +1,9 @@
-Jean Michel Paladin est les monstres.
+Jean-Michel Paladin et les monstres.
 
 Il s'agit de compléter le code en ruby afin que le jeu foctionne.
 
 La règle est simple : Jean-Michel Paladin doit survivre en éliminant les 3 monstres qu'il rencontre à chaque tour. 
+
 A chaque tour, Jean-Michel Paladin doit choisir une option :
 		1 - Il se soigne et regagne des points de vie. Ça n'empêche pas les 3 monstres de l'attaquer et de lui retirer des points de vie.
 
