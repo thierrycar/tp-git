@@ -6,3 +6,5 @@ Les consignes sont de créer :
 	- au moins 2 autres fichiers
 	- au moins 4 commits distincts
 Une fois le repository créé, l'envoyer sur git hub.
+
+J'ai ajouté le TP final du cours sur Git et GitHub que j'ai appelé "Explications_Git" où il s'agissait d'expliquer les principaux concepts de Git : commit, git log et branches.
